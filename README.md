@@ -1,13 +1,27 @@
-# RAT-Guide
+<br><br>
 
 ------------------------------------------------------------------------
+
+<br><br>
+
+# RAT-Guide
+
+<br><br>
+
+------------------------------------------------------------------------
+
+<br><br>
 
 ### :warning: &nbsp; DISCLAIMER &nbsp; :warning:
 
 I AM **NOT** RESPONSIBLE FOR WHAT YOU DO WITH THIS KNOWLEDGE OR ANYTHING YOU DO WITH MY PROJECT. <br>
 ***YOU ARE COMPLETELY RESPONSIBLE FOR YOUR OWN ACTIONS!***
 
+<br><br>
+
 ------------------------------------------------------------------------
+
+<br><br>
 
 ### :heavy_exclamation_mark: &nbsp; README &nbsp; :heavy_exclamation_mark:
 
@@ -20,9 +34,12 @@ So, I made this project as a way of providing basic knowledge on RATs, networkin
 
 **You can read the guide [here](https://github.com/Lin8x/rat-guide/blob/master/networkterms.md)**
 
+<br><br>
+
 ------------------------------------------------------------------------
 
-###### Support
+<br><br>
+
 ### :star2: &nbsp; Supporting Me &nbsp; :star2:
 
 ***--- Want to support me? ---*** <br><br>
@@ -43,6 +60,8 @@ So, I made this project as a way of providing basic knowledge on RATs, networkin
 * [Github](https://www.github.com/lin8x)
 * [Instagram](https://www.instagram.com/lin8x/)
 
-<br>
+<br> <br>
 
 ------------------------------------------------------------------------
+
+<br><br>
