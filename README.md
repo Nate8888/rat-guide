@@ -9,7 +9,7 @@ I AM **NOT** RESPONSIBLE FOR WHAT YOU DO WITH THIS KNOWLEDGE OR ANYTHING YOU DO 
 
 ------------------------------------------------------------------------
 
-I made this repository to help new-comers in malwareware development to easily learn and figure out how to make a RAT in python3. <br>
+I made this repository to help new-comers in malware development to easily learn and figure out how to make a RAT in python3. <br>
 
 I've always wondered, "how do most attackers make a RAT in a programming language, like in python?". <br>
 However, most research I got was, well... not the best.
