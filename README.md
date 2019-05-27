@@ -16,6 +16,6 @@ However, most research I got was, well... not the best.
 
 So, I made this project as a way of providing basic knowledge on RATs, networking, python, pip, and the socket library.
 
-**You can read the guide [here]()**
+**You can read the guide [here](https://github.com/Lin8x/rat-guide/blob/master/networkterms.md)**
 
 ------------------------------------------------------------------------
