@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-#### Introduction
+#### :book: &nbsp; Introduction &nbsp; :book:
 
 My motivation behind this markdown file was that when I was searching for malware development of RATs in python (in order to better understand how they work), <br>
 I barley found any guides that explain the use of libraries they used in their code or certain network terminologies that were given.
@@ -21,7 +21,7 @@ Support my Github Account Here - [lin8x](www.github.com/lin8x)
 
 ------------------------------------------------------------------------
 
-#### Table of Contents
+#### :bookmark: &nbsp; Table of Contents &nbsp; :bookmark:
 
 <!-- vim-markdown-toc GFM -->
 
@@ -94,7 +94,7 @@ Support my Github Account Here - [lin8x](www.github.com/lin8x)
 ------------------------------------------------------------------------
 
 ###### RATS
-### Remote Access Trojans (RATs)?
+### :shipit: &nbsp; Remote Access Trojans (RATs) &nbsp; :shipit:
 
 ###### WIAR
 #### **{-} What is a RAT? {-}**
@@ -193,7 +193,7 @@ The RAT works with 2 different parts.
 ------------------------------------------------------------------------
 
 ###### Python_&_Libraries
-### Python and Libraries
+### :snake: &nbsp; Python and Libraries &nbsp; :snake:
 
 ###### PYTHON
 #### **{-} Python {-}**
@@ -249,7 +249,7 @@ To use pip, you just type in the terminal/cmd-line:
 ------------------------------------------------------------------------
 
 ###### IP_Addresses
-### IP Addresses
+### :house: &nbsp; IP Addresses &nbsp; :house:
 
 ###### IPA
 #### **{-} IP Addresses {-}**
@@ -271,7 +271,7 @@ UDP is a simpler, connectionless Internet protocol.
 ------------------------------------------------------------------------
 
 ###### Network_Ports
-### Network Ports
+### :sound: &nbsp; Network Ports &nbsp; :sound:
 
 ###### PORTS
 #### **{-} Ports {-}**
@@ -366,7 +366,7 @@ A port number is a way to identify a specific process to which an Internet or ot
 ------------------------------------------------------------------------
 
 ###### Nodes_&_Hosts
-### Nodes and Hosts
+### :computer: &nbsp; Nodes and Hosts &nbsp; :computer:
 
 ###### NODES
 #### **{-} Nodes {-}**
@@ -403,14 +403,14 @@ Examples of Nodes:
 ------------------------------------------------------------------------
 
 ###### Network_Sockets
-### Network Sockets
+### :satellite: &nbsp; Network Sockets &nbsp; :satellite:
 
 > A network socket is an internal endpoint for sending or receiving data within a node on a computer network. 
 
 ------------------------------------------------------------------------
 
 ###### Socket_Python
-### Socket Library in Python
+### :file_folder: &nbsp; Socket Library in Python &nbsp; :file_folder:
 
 *Almost everything here can be accessed in your program after importing it with the use of*
 ```python
@@ -436,9 +436,7 @@ socket.family is the socket family.
 
 socket.type is the socket type.
 
-socket.proto
-
-    The socket protocol.
+socket.proto is the socket protocol.
 
 <br>
 
@@ -924,7 +922,7 @@ Socket objects also have these (read-only) attributes that correspond to the val
 ------------------------------------------------------------------------
 
 ###### Support
-### Supporting Me
+### :star2: &nbsp; Supporting Me &nbsp; :star2:
 
 ***--- Want to support me? ---*** <br><br>
 ***1. Make a pull-request for anything you think should be improved in this markdown file.***
@@ -949,7 +947,7 @@ Socket objects also have these (read-only) attributes that correspond to the val
 ------------------------------------------------------------------------
 
 ###### Links
-### Resource Links
+### :books: &nbsp; Resource Links &nbsp; :books:
 
 These are the links to websites and guides I looked at to help me with making this project and markdown file. <br>
 * [Socket Server in Python](https://docs.python.org/2/library/socketserver.html)
