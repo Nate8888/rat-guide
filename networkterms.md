@@ -120,14 +120,14 @@ A RAT is a piece of malware that is made to be fundamentally hidden (like throgu
    Furthermore, an intruder will often manage the level of resource use so that a drop in performance doesn't alert the user that something's amiss.
 
 ###### ATVS
-***-- Accessing the Victim's System --***
+***-- Accessing the Victim's System --*** <br>
 2. Once a victim (the client) runs the executable records unconsciously,
    this RAT introduces itself in the framework memory. 
 
    (A backdoor is a means to access a computer system or encrypted data that bypasses the system's customary security mechanisms.)
 
 ###### AAU
-***-- Allowing Attacker's Use --***
+***-- Allowing Attacker's Use --*** <br>
 3. The RAT abuses the use of Backdoors to gain administrative access of the 
    victim's system. These are normally activated with the use of a payload.
    
